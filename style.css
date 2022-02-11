@@ -1,0 +1,25 @@
+body{margin: 0px;
+color: white;
+background: radial-gradient(red,rgb(90, 4, 4));}
+header{background:linear-gradient(rgb(68, 0, 255),rgb(8, 10, 116));
+width: 1250px;
+height: 125px;}
+main{margin: 0px 0px;
+width: 1250px;
+height: 1000px;
+}
+footer{background: radial-gradient(rgb(18, 18, 100),rgb(65, 11, 11));
+width: 1250px;
+height: 300px;}
+.hat{padding-left: 100px;
+padding-top: 5px;
+font-size: 30px;
+display: inline-block;}
+.fifa{background: url(https://st03.kakprosto.ru/images/article/2011/11/19/1_52550aa866ec852550aa866f23.jpg);
+width: 500px;
+height: 500px;
+margin: 25px 25px;
+display: inline-block;
+float: left;
+}
+p{display:inline-block;}
